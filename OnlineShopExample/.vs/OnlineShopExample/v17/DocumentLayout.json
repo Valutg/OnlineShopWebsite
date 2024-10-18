@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bator\\source\\repos\\OnlineShopExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9503C63-DBF1-4DC2-9FBC-F577C8F6C816}|OnlineShopExample\\OnlineShopExample.csproj|c:\\users\\bator\\source\\repos\\onlineshopexample\\onlineshopexample\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9503C63-DBF1-4DC2-9FBC-F577C8F6C816}|OnlineShopExample\\OnlineShopExample.csproj|solutionrelative:onlineshopexample\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9503C63-DBF1-4DC2-9FBC-F577C8F6C816}|OnlineShopExample\\OnlineShopExample.csproj|c:\\users\\bator\\source\\repos\\onlineshopexample\\onlineshopexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9503C63-DBF1-4DC2-9FBC-F577C8F6C816}|OnlineShopExample\\OnlineShopExample.csproj|solutionrelative:onlineshopexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9503C63-DBF1-4DC2-9FBC-F577C8F6C816}|OnlineShopExample\\OnlineShopExample.csproj|c:\\users\\bator\\source\\repos\\onlineshopexample\\onlineshopexample\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9503C63-DBF1-4DC2-9FBC-F577C8F6C816}|OnlineShopExample\\OnlineShopExample.csproj|solutionrelative:onlineshopexample\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9503C63-DBF1-4DC2-9FBC-F577C8F6C816}|OnlineShopExample\\OnlineShopExample.csproj|c:\\users\\bator\\source\\repos\\onlineshopexample\\onlineshopexample\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9503C63-DBF1-4DC2-9FBC-F577C8F6C816}|OnlineShopExample\\OnlineShopExample.csproj|solutionrelative:onlineshopexample\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9503C63-DBF1-4DC2-9FBC-F577C8F6C816}|OnlineShopExample\\OnlineShopExample.csproj|c:\\users\\bator\\source\\repos\\onlineshopexample\\onlineshopexample\\wc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9503C63-DBF1-4DC2-9FBC-F577C8F6C816}|OnlineShopExample\\OnlineShopExample.csproj|solutionrelative:onlineshopexample\\wc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 179,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Bator\\source\\repos\\OnlineShopExample\\OnlineShopExample\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineShopExample\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Bator\\source\\repos\\OnlineShopExample\\OnlineShopExample\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "OnlineShopExample\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAcwKAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:58:31.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bator\\source\\repos\\OnlineShopExample\\OnlineShopExample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopExample\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Bator\\source\\repos\\OnlineShopExample\\OnlineShopExample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "OnlineShopExample\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAB0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T14:54:50.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WC.cs",
+              "DocumentMoniker": "C:\\Users\\Bator\\source\\repos\\OnlineShopExample\\OnlineShopExample\\WC.cs",
+              "RelativeDocumentMoniker": "OnlineShopExample\\WC.cs",
+              "ToolTip": "C:\\Users\\Bator\\source\\repos\\OnlineShopExample\\OnlineShopExample\\WC.cs",
+              "RelativeToolTip": "OnlineShopExample\\WC.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:43:21.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Bator\\source\\repos\\OnlineShopExample\\OnlineShopExample\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "OnlineShopExample\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Bator\\source\\repos\\OnlineShopExample\\OnlineShopExample\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "OnlineShopExample\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:42:15.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Bator\\source\\repos\\OnlineShopExample\\OnlineShopExample\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "OnlineShopExample\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Bator\\source\\repos\\OnlineShopExample\\OnlineShopExample\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "OnlineShopExample\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:42:14.158Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
